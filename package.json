@@ -1,0 +1,17 @@
+{
+    "extends": [
+        "dev"
+    ],
+    "name": "freedom-platform-app-php-zf2",
+    "version": "0.1.0",
+    "pm": "sm",
+    "mappings": {
+        "zf": [
+            "archive",
+            "https://packages.zendframework.com/releases/ZendFramework-2.0.6/ZendFramework-2.0.6.tgz"
+        ]
+    },
+    "devMappings": {
+        "dev": "github.com/freedom-platform/dev/~0.1.0"
+    }
+}
